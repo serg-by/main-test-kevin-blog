@@ -1,7 +1,7 @@
 ---
-title: My Fifth Article
+title: My New Post
 author: SergBY
-date: 2021-06-15
+
 tags: ["post", "featured"]
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test
