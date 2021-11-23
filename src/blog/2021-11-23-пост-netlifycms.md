@@ -3,8 +3,7 @@ title: Пост NetlifyCMS
 description: Пост создан в админке цмс
 author: SergBY
 date: 2021-11-23T20:16:35.223Z
-tags:
-  - post
+tags: []
 image: /assets/blog/нренр.png
 imageAlt: foto
 ---
